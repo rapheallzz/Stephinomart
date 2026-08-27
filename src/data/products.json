@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prod_aurora_jacket",
+    "name": "Aurora Shell Jacket",
+    "description": "Windproof, packable shell built for unpredictable weather. Taped seams, adjustable hood.",
+    "price": 18900,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80",
+    "category": "Outerwear",
+    "stock": 12
+  },
+  {
+    "id": "prod_atlas_boots",
+    "name": "Atlas Leather Boots",
+    "description": "Full-grain leather boots, resoleable construction, broken in from day one.",
+    "price": 24500,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=800&q=80",
+    "category": "Footwear",
+    "stock": 7
+  },
+  {
+    "id": "prod_field_tee",
+    "name": "Field Cotton Tee",
+    "description": "Heavyweight 220gsm cotton tee with a boxy, relaxed fit.",
+    "price": 4200,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+    "category": "Tops",
+    "stock": 34
+  },
+  {
+    "id": "prod_ranger_pack",
+    "name": "Ranger Daypack",
+    "description": "18L daypack with a padded laptop sleeve and roll-top closure.",
+    "price": 9800,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80",
+    "category": "Accessories",
+    "stock": 3
+  },
+  {
+    "id": "prod_dune_cap",
+    "name": "Dune Wool Cap",
+    "description": "Merino wool cap, unlined, one size fits most.",
+    "price": 3600,
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=800&q=80",
+    "category": "Accessories",
+    "stock": 21
+  },
+  {
+    "id": "prod_summit_pants",
+    "name": "Summit Utility Pants",
+    "description": "Ripstop cotton twill pants with reinforced knees and a gusseted crotch.",
+    "price": 11200,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=80",
+    "category": "Bottoms",
+    "stock": 0
+  }
+]
